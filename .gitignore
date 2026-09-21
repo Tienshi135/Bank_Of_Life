@@ -1,0 +1,14 @@
+#General ignores
+.Ds_Store
+
+#Build artefacts
+DerivedData/
+build/
+
+#User data
+*.xcuserdatad
+xcuserdata/
+
+# Xcode project file
+YourProject.xcodeproj/
+
