@@ -16,6 +16,11 @@
 			path = "Bank of life";
 			sourceTree = "<group>";
 		};
+		A9F121033061D5A0000A825E /* Doc */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Doc;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +37,7 @@
 		A9F120DD3054ADDE000A825E = {
 			isa = PBXGroup;
 			children = (
+				A9F121033061D5A0000A825E /* Doc */,
 				A9F120E83054ADDE000A825E /* Bank of life */,
 				A9F120E73054ADDE000A825E /* Products */,
 			);
@@ -62,6 +68,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				A9F120E83054ADDE000A825E /* Bank of life */,
+				A9F121033061D5A0000A825E /* Doc */,
 			);
 			name = "Bank of life";
 			packageProductDependencies = (

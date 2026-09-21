@@ -1,5 +1,5 @@
 #General ignores
-.Ds_Store
+.DS_Store
 
 #Build artefacts
 DerivedData/
@@ -8,7 +8,4 @@ build/
 #User data
 *.xcuserdatad
 xcuserdata/
-
-# Xcode project
-Bank\ Of\ Life.xcodeproj/
 
